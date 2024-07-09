@@ -1,0 +1,12 @@
+<extentreports>
+	<configuration>
+		<theme>standard</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>https</protocol>
+		<documentTitle>Title - BDD Framework Report Document</documentTitle>
+		<reportName>Report name is BDD Report</reportName>
+		<dateformat>yyyy-MM-dd</dateformat>
+		<dateformat>HH:mm:ss</dateformat>
+		
+	</configuration>
+</extentreports>
